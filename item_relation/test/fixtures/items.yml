@@ -1,0 +1,25 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  Title: MyText
+  Reference_Type: 1
+  Reference_Address: MyText
+  Reference_Chapter: MyText
+  Reference_PageNumber: MyText
+  Body: MyText
+  GeoTag: MyText
+  TypeId: 1
+  People: 1
+  ProjectId: 1
+
+two:
+  Title: MyText
+  Reference_Type: 1
+  Reference_Address: MyText
+  Reference_Chapter: MyText
+  Reference_PageNumber: MyText
+  Body: MyText
+  GeoTag: MyText
+  TypeId: 1
+  People: 1
+  ProjectId: 1
